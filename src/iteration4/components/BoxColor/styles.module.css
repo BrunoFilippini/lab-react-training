@@ -1,0 +1,12 @@
+.boxColorCard {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight:bold ;
+    width: 40VW;
+}
+
+.boxColorCard p {
+    margin: 0;
+}

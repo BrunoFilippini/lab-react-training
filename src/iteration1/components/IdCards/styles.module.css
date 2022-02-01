@@ -1,0 +1,17 @@
+.card {
+    border: 2px solid black;
+    display: flex;
+    width: 40VW;
+    padding: 0.4rem 0.4rem 0.2rem 0.4rem ;
+}
+
+.card span {
+    font-weight: bold;
+}
+
+.information p {
+    margin: 0;
+    padding-left: 0.5rem;
+}
+
+

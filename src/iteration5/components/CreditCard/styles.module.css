@@ -1,0 +1,31 @@
+.CreditCard {
+
+    width: 30VW;
+    border-radius: 20px;
+    padding: 0.4rem 0.4rem 0.2rem 0.4rem ;
+    height: 15VW;
+}
+
+.CreditCard p {
+    margin: 0;
+    display: flex;
+    padding-left: 2rem;
+    font-weight: bold;
+}
+
+.CreditCard h2 {
+    padding: 1.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: flex-end;
+    height: 15%;
+    padding: 0.5rem;
+}
+
+.CreditCard span {
+    margin-left: 2rem;
+}
